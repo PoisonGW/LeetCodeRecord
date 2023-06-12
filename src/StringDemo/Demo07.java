@@ -1,6 +1,5 @@
 package StringDemo;
 
-import org.junit.Test;
 
 import javax.annotation.processing.SupportedAnnotationTypes;
 
